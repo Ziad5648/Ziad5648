@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Ziad5648
+- 👀 I’m interested in web dev
+- 🌱 I’m currently learning HTML and CSS and JavaScript
+-     my discord: ziad_mta.
